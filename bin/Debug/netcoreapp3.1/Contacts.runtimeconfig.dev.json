@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/vanica/.dotnet/store/|arch|/|tfm|",
+      "/home/vanica/.nuget/packages"
+    ]
+  }
+}
